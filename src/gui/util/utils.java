@@ -4,7 +4,7 @@ import javafx.event.ActionEvent;
 import javafx.scene.Node;
 import javafx.stage.Stage;
 
-public class utils {
+public class Utils {
 
 	// Gets the Stage where action handler is located
 	// ex: button pressed, call this function to get which Stage this button is located
